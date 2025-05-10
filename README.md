@@ -15,3 +15,5 @@ The 2-bit Synchronous RAM is a small memory unit capable of storing 2 bits of da
 
 
 ![Image](https://github.com/user-attachments/assets/29752096-2fed-4af1-8aad-ed7e38691d33)
+
+![Image](https://github.com/user-attachments/assets/29752096-2fed-4af1-8aad-ed7e38691d33)
